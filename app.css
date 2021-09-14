@@ -1,0 +1,28 @@
+.hero{
+    background-image: url("assets/bg-2.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position:bottom left;
+    background-size: 9rem;
+}
+
+.carousel-bg{
+    background-image:url("assets/bg-1.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:4rem;
+}
+
+
+.car-pad{
+    padding: 10px 20px;
+
+}
+
+.buy-now{
+    border: none;
+    padding: 8px 13px;
+    border-radius: 5px;
+    background-color: black;
+    color:white;
+}
