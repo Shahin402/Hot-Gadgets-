@@ -32,10 +32,19 @@
     color: orange;
 }
 
-.phone-card img{
-    width
+.card-img-top,.card-title,.card-text,.price{
+    text-align: center;
 }
 
-.cards img{
-     width: 80%;
+.card{
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
 }
+
+.card-footer{
+    text-align: center;
+    border: none;
+    background-color: white;
+}
+
