@@ -4,6 +4,7 @@
     background-repeat: no-repeat;
     background-position:bottom left;
     background-size: 9rem;
+    margin-bottom: 100px;
 }
 
 .carousel-bg{
@@ -25,4 +26,16 @@
     border-radius: 5px;
     background-color: black;
     color:white;
+}
+
+.see-all{
+    color: orange;
+}
+
+.phone-card img{
+    width
+}
+
+.cards img{
+     width: 80%;
 }
