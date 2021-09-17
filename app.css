@@ -37,9 +37,10 @@
 }
 
 .card{
+    border: none;
     padding: 20px 40px;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px grey;
+    box-shadow: 5px 5px 10px lightgray;
 }
 
 .card-footer{
@@ -48,3 +49,10 @@
     background-color: white;
 }
 
+#products{
+  margin-bottom: 30px;
+}
+
+.cards{
+    margin-bottom: 50px;
+}
