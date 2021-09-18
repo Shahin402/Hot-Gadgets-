@@ -56,3 +56,32 @@
 .cards{
     margin-bottom: 50px;
 }
+
+.text{
+    text-align: center;
+}
+
+.cat{
+    height: 8px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 15px;
+    background-image: linear-gradient(to right,orange,darkorange);
+    
+}
+
+#category{
+    margin-top: 150px;
+}
+
+.bottom-section img{
+    width: 100%;
+}
+
+
+
+.bag,.perfume,.shoe{
+   
+     border: 2px solid black;  
+     
+}
